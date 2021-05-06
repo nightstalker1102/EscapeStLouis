@@ -1,0 +1,65 @@
+/* contact form styles */
+
+fieldset {
+	float: left;
+	margin: 10px 0px 10px 2.5%;
+	width: 80%;
+}
+
+/* Label Styles */
+label {
+	clear: left;
+	display: block;
+	float: left;
+	font-size: 1em;
+	margin: 7px 4% 7px 5px;
+	width: 7%;
+	height: auto;
+	text-align: right;
+}
+
+input, textarea {
+	display: block;
+	float: left;
+	font-size: 1em;
+	margin: 7px 0px;
+	width: 50%;
+	height: auto;
+}
+
+/* Checkbox Styles */
+input#newsletter {
+	clear: left;
+	width: 25px;
+	margin-left: 30px;
+}
+
+input#newsletter+label {
+	clear: none;
+	width: auto;
+}
+
+/*Button Styles */
+input[type="submit"] {
+	clear: left;
+}
+
+input[type="submit"], input[type="reset"] {
+	height: 40px;
+	margin-right: 20px;
+	margin-left: 10px;
+	width: 200px;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
